@@ -5,6 +5,7 @@
  *                                                                                                *
  ************************************************************************************************ */
 
+/* eslint linebreak-style: ["error", "unix"] */
 
 /**
  * Return Promise object that is resolved with string value === 'Hooray!!! She said "Yes"!',

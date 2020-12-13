@@ -7,6 +7,7 @@
  *                                                                                            *
  ******************************************************************************************** */
 
+/* eslint linebreak-style: ["error", "unix"] */
 
 /**
  * Returns an index of the specified element in array or -1 if element is not found

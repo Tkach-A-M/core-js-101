@@ -6,6 +6,7 @@
  *                                                                                                *
  ************************************************************************************************ */
 
+/* eslint linebreak-style: ["error", "unix"] */
 
 /**
  * Returns the 'Fizz','Buzz' or an original number using the following rules:

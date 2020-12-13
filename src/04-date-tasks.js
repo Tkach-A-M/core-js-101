@@ -6,6 +6,7 @@
  *                                                                                           *
  ******************************************************************************************* */
 
+/* eslint linebreak-style: ["error", "unix"] */
 
 /**
  * Parses a rfc2822 string date representation into date value

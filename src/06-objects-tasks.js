@@ -6,6 +6,7 @@
  *                                                                                                *
  ************************************************************************************************ */
 
+/* eslint linebreak-style: ["error", "unix"] */
 
 /**
  * Returns the rectagle object with width and height parameters and getArea() method

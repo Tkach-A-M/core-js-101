@@ -8,6 +8,7 @@
  *                                                                                           *
  ******************************************************************************************* */
 
+/* eslint linebreak-style: ["error", "unix"] */
 
 /**
  * Returns the regexp that matches a GUID string representation
